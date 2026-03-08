@@ -1,2 +1,18 @@
-# uber-trip-data-analysis
-End-to-end data analysis project using Python, MySQL and Power BI on Uber trip dataset.
+uber-trip-data-analysis
+│
+├── dataset
+│   └── uber_trips_cleaned.csv
+│
+├── python
+│   └── data_cleaning.ipynb
+│
+├── sql
+│   └── analysis_queries.sql
+│
+├── powerbi
+│   └── uber_dashboard.pbix
+│
+├── images
+│   └── dashboard.png
+│
+└── README.md
